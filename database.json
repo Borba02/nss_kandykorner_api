@@ -1,0 +1,113 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "4041 Wiley Gateway"
+        },
+        {
+            "id": 2,
+            "address": "423 Esther Knolls"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "productName": "Hershey",
+            "price": 2.25,
+            "typeID": 1
+        },
+        {
+            "id": 2,
+            "productName": "Reese's",
+            "price": 2.50,
+            "typeID": 1
+        },
+        {
+            "id": 3,
+            "productName": "Jawbreaker",
+            "price": 5.00,
+            "typeID": 2
+        },
+        {
+            "id": 4,
+            "productName": "Rock Candy",
+            "price": 0.75,
+            "typeID": 2
+        },
+        {
+            "id": 5,
+            "productName": "Sucker",
+            "price": 0.50,
+            "typeID": 2
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Laron Beahan"
+        },
+        {
+            "id": 2,
+            "name": "Damaris Spencer"
+        },
+        {
+            "id": 3,
+            "name": "Lexie Larkin"
+        },
+        {
+            "id": 4,
+            "name": "Easter Parker"
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "typeName": "Chocolate"
+        },
+        {
+            "id": 2,
+            "typeName": "Hard Candy"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "General Rogahn"
+        },
+        {
+            "id": 2,
+            "name": "Fern Crooks"
+        },
+        {
+            "id": 3,
+            "name": "Issac Johnson"
+        },
+        {
+            "id": 4,
+            "name": "Declan Hickle"
+        },
+        {
+            "id": 5,
+            "name": "Ervin Reinger"
+        },
+        {
+            "id": 6,
+            "name": "Burley Runte"
+        },
+        {
+            "id": 7,
+            "name": "Alessandra Wuckert"
+        }
+    ],
+    "purchases": [
+        {
+            "id": 1,
+            "purchaseTotal": 0,
+            "locationID": 1,
+            "productID": 1,
+            "customerID": 1,
+            "employeeID": 1
+        }
+    ]
+
+}
