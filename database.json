@@ -14,31 +14,31 @@
             "id": 1,
             "productName": "Hershey",
             "price": 2.25,
-            "typeID": 1
+            "productTypeId": 1
         },
         {
             "id": 2,
-            "productName": "Reese's",
-            "price": 2.50,
-            "typeID": 1
+            "productName": "Jawbreaker",
+            "price": 5.00,
+            "productTypeId": 2
         },
         {
             "id": 3,
-            "productName": "Jawbreaker",
-            "price": 5.00,
-            "typeID": 2
+            "productName": "Reese's",
+            "price": 2.50,
+            "productTypeId": 1
         },
         {
             "id": 4,
             "productName": "Rock Candy",
             "price": 0.75,
-            "typeID": 2
+            "productTypeId": 2
         },
         {
             "id": 5,
             "productName": "Sucker",
             "price": 0.50,
-            "typeID": 2
+            "productTypeId": 2
         }
     ],
     "employees": [
@@ -103,10 +103,10 @@
         {
             "id": 1,
             "purchaseTotal": 0,
-            "locationID": 1,
-            "productID": 1,
-            "customerID": 1,
-            "employeeID": 1
+            "locationId": 1,
+            "productTypeId": 1,
+            "customerId": 1,
+            "employeeId": 1
         }
     ]
 
